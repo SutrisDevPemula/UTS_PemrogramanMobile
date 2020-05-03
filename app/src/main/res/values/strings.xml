@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTS_1710510031_Sutrisno</string>
+    <string name="splash_name">GoFood</string>
+    <string name="todo">TODO</string>
+    <string name="food_image">Food image</string>
+    <string name="paket_nila">Paket Nila</string>
+    <string name="discounted_price">25.000</string>
+    <string name="general_price">35.000</string>
+    <string name="add_to_price">Tambah</string>
+    <string name="dtl_food">disini tempat isi dari detail food</string>
+    <string name="harga_makanan">Harga Makanan</string>
+    <string name="tambah_ke_keranjang">Tambah ke Keranjang</string>
+</resources>
